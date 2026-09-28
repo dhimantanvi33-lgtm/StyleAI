@@ -1,5 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
+import 'package:style_ai/screens/auth/forgot_password_screen.dart';
+import 'package:style_ai/screens/auth/login_screen.dart';
+import 'package:style_ai/screens/auth/register_screen.dart';
+import 'package:style_ai/screens/auth/splash_screen.dart';
 
 final appRouter = GoRouter(
   initialLocation: '/',
